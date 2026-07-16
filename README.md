@@ -1,14 +1,14 @@
 # ⚡ Energy Space
 
-Energy Space is a modern fitness web application built with React and Vite that helps users maintain a healthy lifestyle through interactive fitness tools and personalized guidance.
+Energy Space is a modern fitness web application built with React.js that helps users achieve their fitness goals through personalized tools and workout tracking.
 
-## 🌐 Live Demo
+## 🚀 Live Demo
 
-🔗 https://energy-space.vercel.app/
+🌐 https://energy-space.vercel.app/
 
-## 📂 GitHub Repository
+## 💻 GitHub Repository
 
-🔗 https://github.com/ashmapathan/energy-space
+https://github.com/ashmapathan/energy-space
 
 ---
 
@@ -20,71 +20,76 @@ Energy Space is a modern fitness web application built with React and Vite that 
 - 🥗 Personalized Nutrition Planner
 - 📅 5-Day Workout Challenge
 - 🔥 Workout Streak Tracking
-- 📈 Workout Progress Tracker
 - 🌙 Dark / Light Mode
 - 📱 Fully Responsive Design
-- 🎨 Modern UI with Tailwind CSS
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - React.js
 - Vite
-- JavaScript
 - Tailwind CSS
 - React Router DOM
+- JavaScript
 - Local Storage
 
 ---
 
-## 🚀 Installation
+# 📸 Screenshots
 
-Clone the repository
+## 🏠 Home Page
 
-```bash
-git clone https://github.com/ashmapathan/energy-space.git
-```
-
-Navigate to the project
-
-```bash
-cd energy-space
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the development server
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
+![Home Page](screenshots/home.png)
 
 ---
 
-## 📷 Preview
+## 💪 Benefits Section
 
-(Add screenshots here after deployment.)
+![Benefits](screenshots/benefits.png)
+
+---
+
+## ⚖️ BMI Calculator
+
+![BMI Calculator](screenshots/bmi-calculator.png)
+
+---
+
+## 🥗 Nutrition Planner
+
+![Nutrition Planner](screenshots/nutrition-planner.png)
+
+---
+## 📅 Workout Challenge Progress
+
+![Workout Challenge Progress](screenshots/workout-tracker-dark1.png)
+
+---
+
+## 💪 Workout Progress & Summary
+
+![Workout Progress](screenshots/workout-tracker-dark2.png)
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/ashmapathan/energy-space.git
+
+cd energy-space
+
+npm install
+
+npm run dev
+```
 
 ---
 
 ## 👩‍💻 Author
 
-**Pathan Ashma Begum**
+**Ashma Begum Pathan**
 
-- GitHub: https://github.com/ashmapathan
-- LinkedIn: https://linkedin.com/in/pathanashmabegum
+LinkedIn: *(your profile link)*
 
----
-
-⭐ If you like this project, consider giving it a star!
+GitHub: https://github.com/ashmapathan
