@@ -1,3 +1,8 @@
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-8-purple?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8?logo=tailwindcss)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?logo=vercel)](https://energy-space.vercel.app/)
+
 # ⚡ Energy Space
 
 Energy Space is a modern fitness web application built with React.js that helps users achieve their fitness goals through personalized tools and workout tracking.
