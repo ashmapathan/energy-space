@@ -4,7 +4,7 @@ Energy Space is a modern fitness web application built with React and Vite that 
 
 ## 🌐 Live Demo
 
-🔗 https://YOUR-VERCEL-LINK.vercel.app
+🔗 https://energy-space.vercel.app/
 
 ## 📂 GitHub Repository
 
