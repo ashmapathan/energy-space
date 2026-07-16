@@ -1,16 +1,90 @@
-# React + Vite
+# ⚡ Energy Space
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Energy Space is a modern fitness web application built with React and Vite that helps users maintain a healthy lifestyle through interactive fitness tools and personalized guidance.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://YOUR-VERCEL-LINK.vercel.app
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 https://github.com/ashmapathan/energy-space
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🏋️ Goal-Based Workout Planner
+- ⚖️ BMI Calculator
+- 🔥 Daily Calorie Calculator
+- 🥗 Personalized Nutrition Planner
+- 📅 5-Day Workout Challenge
+- 🔥 Workout Streak Tracking
+- 📈 Workout Progress Tracker
+- 🌙 Dark / Light Mode
+- 📱 Fully Responsive Design
+- 🎨 Modern UI with Tailwind CSS
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Vite
+- JavaScript
+- Tailwind CSS
+- React Router DOM
+- Local Storage
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/ashmapathan/energy-space.git
+```
+
+Navigate to the project
+
+```bash
+cd energy-space
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 📷 Preview
+
+(Add screenshots here after deployment.)
+
+---
+
+## 👩‍💻 Author
+
+**Pathan Ashma Begum**
+
+- GitHub: https://github.com/ashmapathan
+- LinkedIn: https://linkedin.com/in/pathanashmabegum
+
+---
+
+⭐ If you like this project, consider giving it a star!
