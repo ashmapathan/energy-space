@@ -90,6 +90,6 @@ npm run dev
 
 **Ashma Begum Pathan**
 
-LinkedIn: *(your profile link)*
+LinkedIn: www.linkedin.com/in/pathanashmabegum
 
 GitHub: https://github.com/ashmapathan
