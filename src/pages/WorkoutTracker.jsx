@@ -263,12 +263,24 @@ return (
 >
   <div className="flex justify-between items-center">
 
-    <div className="text-center">
-      <p className="text-2xl">📅</p>
-      <h2 className="text-xl font-bold text-green-500">
-        Day {currentDay}/{totalDays}
-      </h2>
-    </div>
+  <div className="text-center">
+  <p className="text-2xl">🗓️</p>
+
+  <p
+    className={`text-sm ${
+      darkMode ? "text-gray-300" : "text-gray-600"
+    }`}
+  >
+    {new Date().toLocaleDateString("en-US", {
+      month: "short",
+      day: "numeric",
+    })}
+  </p>
+
+  <h2 className="text-xl font-bold text-green-500">
+    Day {currentDay}/{totalDays}
+  </h2>
+</div>
 
     <div className="text-center">
       <p className="text-2xl">🔥</p>
@@ -310,9 +322,9 @@ return (
     darkMode ? "bg-gray-800" : "bg-white"
   }`}
 >
-  <h2 className="text-2xl font-bold mb-6">
-    📅 Challenge Progress
-  </h2>
+ <h2 className="text-2xl font-bold mb-6">
+  📆 Challenge Progress
+</h2>
 
   <div className="space-y-4">
     {Array.from({ length: totalDays }, (_, index) => {
